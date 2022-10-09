@@ -33,8 +33,6 @@ public class Einsteigerbeispiel {
 
             hashMap.put(array[i],a);
 
-
-
         }
 
         return hashMap;
